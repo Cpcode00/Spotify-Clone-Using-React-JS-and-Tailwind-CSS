@@ -5,7 +5,7 @@ Spotify Clone Using React JS and Tailwind CSS
 
 ## Screenshots
 
-![page](https://github.com/Cpcode00/React-Shopping-Cart-Ecommerce-Beginner-Website/blob/main/ChristianShop.png)
+![page](https://github.com/Cpcode00/Spotify-Clone-Using-React-JS-and-Tailwind-CSS/blob/main/SpotifyClone.png)
 
 ## React + Vite
 
